@@ -1,4 +1,4 @@
 # Calculator
-This is my calculator project using javascript.
+This is  calculator project using javascript.
 <br>
 Developer:Aditi Tambekar
